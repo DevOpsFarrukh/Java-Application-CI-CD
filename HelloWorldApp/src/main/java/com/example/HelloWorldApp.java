@@ -50,11 +50,11 @@ public class HelloWorldApp {
                         "    </style>" + 
                         "</head>" + 
                         "<body>" + 
-                        "    <h1>My Name is 'Syed Umair Ali Gilani'</h1>" + 
+                        "    <h1>My Name is 'Farrukh Mannan'</h1>" + 
                         "    <div>" + 
-                        "        <a href=\"https://www.linkedin.com/in/umairgl/\" class=\"fa fa-linkedin\"></a>" + 
-                        "        <a href=\"https://www.facebook.com/umairgl\" class=\"fa fa-facebook\"></a>" + 
-                        "        <a href=\"https://mail.google.com/mail/?view=cm&fs=1&to=umair123@gmail.com\" class=\"fa fa-google\"></a>" + 
+                        "        <a href=\"https://www.linkedin.com/in/farrukhmannan/\" class=\"fa fa-linkedin\"></a>" + 
+                        "        <a href=\"https://medium.com/@engineerfarrukh00/\" class=\"fa fa-facebook\"></a>" + 
+                        "        <a href=\"https://mail.google.com/mail/?view=cm&fs=1&to=engineerfarrukh00@gmail.com\" class=\"fa fa-google\"></a>" + 
                         "    </div>" + 
                         "    <p><i>Reach Me from one of any above Platform</i></p>" +
                         "    <h2>This is my Java Application</h2>" + 
