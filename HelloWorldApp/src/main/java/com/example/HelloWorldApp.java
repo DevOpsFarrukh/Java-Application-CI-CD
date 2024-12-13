@@ -58,7 +58,7 @@ public class HelloWorldApp {
                         "    </div>" + 
                         "    <p><i>Reach Me from one of any above Platform</i></p>" +
                         "    <h2>This is my Java Application</h2>" + 
-                        "    <button onclick=\"window.location.href='/image'\">Click Me</button>" + 
+                        "    <button>Click Me</button>" + 
                         "</body>" + 
                         "</html>";
             exchange.sendResponseHeaders(200, response.length());
@@ -81,7 +81,7 @@ public class HelloWorldApp {
     static class ImageHandler implements HttpHandler {
         @Override
         public void handle(HttpExchange exchange) throws IOException {
-            File file = new File("src/main/resources/static/umair.png"); // Adjust path if necessary
+            File file = new File("src/main/resources/static/farrukh.png"); // Adjust path if necessary
 
             if (!file.exists()) {
                 String response = "Image not found.";
